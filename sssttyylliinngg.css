@@ -22,8 +22,8 @@ body{
 #logo{
     height:50px;
     width:113px;
-    background-image:url(/AMAZON_Project/Amazon/alogo.jpg);
-    background-size:cover;
+    background-image:url(/Amazon/alogo.jpg);
+    background-size:contain;
 }
 
 /*2*/
