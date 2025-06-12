@@ -5,7 +5,7 @@ body{
 .navbar{
     height:99px;
     width:100%;
-    background-color:#0f1111;
+    background-color:#0f1111e4;
 }
 .navbar1{
     display:flex;
@@ -22,8 +22,8 @@ body{
 #logo{
     height:50px;
     width:113px;
-    background-image:url(Amazon/alogo.jpg);
-    background-size:contain;
+    background-image:url(Amazon/amaze_logo.png);
+    background-size:cover;
 }
 
 /*2*/
@@ -724,9 +724,9 @@ background-image: url(Amazon/amazon_5_3.jpg);
 }
 #div1-of-footer3{
     height:46px;
-    width:91px;
-    background-image: url(Amazon/ama2.png);
-    background-size: contain;
+    width:99px;
+    background-image: url(Amazon/amaze_logo.png);
+    background-size: cover;
     margin-left:27em;
 }
 #div2-of-footer3{
